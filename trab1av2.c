@@ -12,8 +12,8 @@ int main()
     char auxaluno[20];
     int i,j;
     
-    printf("Olá, meu nome é Deyler e este programa pode ser visto no seguinte endereço do github:\n");
-    printf("www.google.com\n");
+    printf("\nOlá, meu nome é Deyler e este programa pode ser visto no seguinte endereço do github:\n");
+    printf("https://github.com/deylerjunior/trabalhoav2.git\n");
     
     for(i=0;i<tam;i++) 
 {
